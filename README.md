@@ -46,7 +46,7 @@ Lógica principal en JavaScript: consumo de API, renderizado dinámico y manejo 
 
 Describe la estructura HTML, los componentes principales y cómo se conectan con JS y CSS.
 
-[Ir al código](./index.html)
+[Ir al explicación](exindex.md)
 
 ---
 
@@ -54,7 +54,7 @@ Describe la estructura HTML, los componentes principales y cómo se conectan con
 
 Explica los estilos aplicados, colores, layout y personalización visual.
 
-[Ir al código](./css/app.css)
+[Ir al código](excss.md)
 
 ---
 
@@ -62,12 +62,18 @@ Explica los estilos aplicados, colores, layout y personalización visual.
 
 Detalla la lógica de consumo de la API, renderizado de filas, manejo de errores y eventos.
 
-[Ir al código](./js/app.js)
+[Ir al código](exjs.md)
 
 ---
 
 ## 🔗 Navegación Rápida
 
+- [Index](index.html)
+- [ExplicacionIndex](exindex.md)
+- [CSS](./css/app.css)
+- [ExplicacionCSS](excss.md)
+- [JS](./js/app.js)
+- [ExplicacionJS](exjs.md)
 
 ---
 
