@@ -3,6 +3,15 @@ body {
 }
 .navbar-brand b {
     color: #3cb1e8;
+    font-size: 1.5rem;
+}
+.navbar-brand p {
+    color: white;
+    display: inline;
+    font-size: 1.5rem;
+    margin-left: 0.2rem;
+    font-weight: 400;
+    font-style: italic;
 }
 .hero {
     min-height: 55vh;
