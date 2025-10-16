@@ -4,6 +4,13 @@ Prime’nt Video es una mini app web que te permite explorar series y programas 
 
 ---
 
+## ULTIMOS CAMBIOS!!!
+
+Se realizaron varias mejoras en app.js que aseguran la correcta visualización y funcionamiento de la página. 
+
+Dirigete a [ExplicacionJS](#exjs.md) para ver las mejoras
+---
+
 ## 📂 Estructura del Proyecto
 
 ```plaintext
