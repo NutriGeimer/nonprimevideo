@@ -1,6 +1,6 @@
 # 📺 Prime'nt Video — Documentación
 
-Bienvenido a la documentación del proyecto. Aquí encontrarás explicaciones y enlaces directos a los archivos y fragmentos de código relevantes.
+Prime’nt Video es una mini app web que te permite explorar series y programas usando la API de TVMaze. Con HTML, CSS y JavaScript, muestra la info de forma dinámica y visual, desde la estructura de la página hasta los estilos y la interacción con los datos. Esta documentación sirve para entender cómo está hecho el proyecto y cómo funcionan sus diferentes partes.
 
 ---
 
